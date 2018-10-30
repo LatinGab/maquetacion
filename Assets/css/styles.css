@@ -1,0 +1,42 @@
+.h1 {
+  font-family:'Raleway', sans-serif;
+  color: #FFFFFF;
+  font-size: 50px;
+}
+
+.h2_fondo_oscuro: {
+  font-family: 'Open Sans', sans-serif;
+  color: #FFFFFF;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: bold;
+  text-align: left;
+
+}
+
+.h2_fondo_claro: {
+  font-family: 'Open Sans', sans-serif;
+  color: #686963;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: bold;
+  text-align: left;
+}
+
+.parrafo_fondo_claro: {
+  font-family: 'Open Sans', sans-serif;
+  color: #686963;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: normal;
+  text-align: left;
+}
+
+.parrafo_fondo_oscuro: {
+  font-family: 'Open Sans', sans-serif;
+  color: #ffffff;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: normal;
+  text-align: left;
+}
